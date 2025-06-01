@@ -1,0 +1,24 @@
+{
+  "gitSyncId": "682969baa75e8c4d00b5a9c2_6489b4e4-fd23-4c7f-afea-de2ec85e1725",
+  "id": "Page1_Stalin",
+  "unpublishedCollection": {
+    "name": "Stalin",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "appname",
+        "value": "\"chat-widget\""
+      },
+      {
+        "name": "history",
+        "value": "[{\n  role: \"CHATBOT\",\n  message: \"Como posso te ajudar?\"\n}]"
+      },
+      {
+        "name": "lastUserMessage",
+        "value": "\"\""
+      }
+    ]
+  }
+}
